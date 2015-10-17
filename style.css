@@ -1,0 +1,126 @@
+#List1 {
+  list-style: none;
+}
+
+#OurStory {
+  color: brown;
+}
+
+#Menu {
+  color: brown;
+}
+
+#UpcomingEvents {
+  color: brown;
+}
+
+
+#body {
+  padding: inherit;
+  background-color: LightGoldenRodYellow;
+}
+
+#ATG {
+  float: inherit;
+  border: 5px solid brown;
+}
+#RealMeal {
+  float: inherit;
+  border: 5px solid brown;
+  margin-top: .5em;
+}
+
+#TBT {
+  float: inherit;
+  margin-top: .5em;
+  border: 5px solid brown;
+}
+#DarkRedKidney {
+  text-align: center;
+  margin-top: .5em;
+}
+
+
+#body2 {
+  padding: inherit;
+  background-color: LightGoldenRodYellow;
+  color: brown;
+}
+#OurStory {
+  text-align: center;
+}
+
+#body3 {
+  padding: inherit;
+  background-color: LightGoldenRodYellow;
+  color:brown;
+}
+#body4 {
+  padding: inherit;
+  background-color: LightGoldenRodYellow;
+  color: brown;
+}
+#TheBeanTruck {
+  float: none;
+  text-align: center;
+  color: brown;
+}
+#UE {
+  text-align: center;
+}
+
+#Farinata {
+  text-align: center;
+}
+#Hummus {
+  text-align: center;
+}
+#WhiteBeanDip {
+  text-align: center;
+}
+#CubanBlackBean {
+  text-align: center;
+}
+#Falafel {
+  text-align: center;
+}
+#WhiteBeanCake {
+  text-align: center;
+}
+#BGBlackBeans {
+  text-align: center;
+}
+#RBAndRice {
+  text-align: center;
+}
+#Menu2 {
+  text-align: center;
+}
+#p {
+  border: 5px solid brown;
+  color: brown;
+  float: right;
+  width: 70%;
+  margin-left: .5em;
+}
+#Look {
+  border: 5px solid brown;
+
+}
+#List2 {
+  border: 5px solid brown;
+  margin-top: .5em;
+}
+
+#MenuBox {
+  float: left;
+  border: 5px solid brown;
+  color: brown;
+  width: 27%;
+}
+
+#Picture {
+  text-align: center;
+  padding: 1em;
+  margin: 1em;
+}
